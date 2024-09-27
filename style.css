@@ -53,6 +53,12 @@ h2 {
     color: #472372;
 }
 
+    .resaltado {
+        background-color: yellow; /* O el color que prefieras */
+        color: black; /* El color del texto */
+    }
+
+
 label {
     display: block;
     margin-bottom: 8px;
